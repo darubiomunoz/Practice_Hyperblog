@@ -17,11 +17,6 @@ body
     margin: 0;
     padding: 0.5em;
 }
-#header #logo
-{
-    width: 20px;
-    vertical-align: middle;
-}
 #header #tagline
 {
     margin: 0 0 0 0;
@@ -40,8 +35,10 @@ body
 {
     font-size: 30px;
 }
-#post
+#Footer
 {
-    background: white;
-    padding: 1em;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
